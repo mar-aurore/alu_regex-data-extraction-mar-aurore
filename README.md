@@ -17,7 +17,7 @@ In summary,this system extracts data like emails,urls,time,phone number,and cred
 
 ## Tools used
 
--language: pyton
+-language: python
 
 -Regex 're' module
 
