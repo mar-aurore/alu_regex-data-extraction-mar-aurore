@@ -1,0 +1,10 @@
+make the payment using credit card:1234-5678-9012-3456,receiving payments will end at 22:45 P.M .
+For more support,reach to out  us at user@example.com or firstname.lastname@company.co.uk.Visit our website 
+at https://www.example.comLinks to an external site or support page https://subdomain.example.org.
+
+Also you can contact us by phone :
+-(123) 456-7890
+-123-456-7890
+-123.456.7890
+
+Thank you for using our service!!
